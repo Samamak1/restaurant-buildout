@@ -2,7 +2,7 @@
 
 Six signature cocktails, all at $15, built around a tequila/mezcal backbone with house
 syrups, fresh juice, and theatrical garnishes (flame, shimmer, dehydrated fruit). Menu
-copy and full build specs below — as written for the bar team.
+copy and full build specs below - as written for the bar team.
 
 ## Menu (guest-facing)
 
