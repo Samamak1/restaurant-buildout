@@ -140,7 +140,7 @@ The supporting workbooks are documented in the companion [`alcohol-pricing-engin
 | Workforce | Approximately 60 employees recruited and trained | Leadership-account and staffing-record claim; employee records withheld. |
 | Menu simplification | Approximately 45 items reduced to 12 operating items before launch | Operating-design record. |
 | Cocktail workflow | Approximately two minutes reduced to 30 seconds | Process observation and operating-design claim. |
-| Launch artifact | Workstreams converged on the October 2023 opening window | Sanitized project-roadmap evidence. |
+| Launch coordination | Workstreams converged on the October 2023 opening window | Leadership-account claim supported by the program structure summarized above; source roadmap remains private. |
 
 ## Repository contents
 
@@ -151,7 +151,6 @@ The supporting workbooks are documented in the companion [`alcohol-pricing-engin
 | `bar-interior.jpg` | Photograph of the completed operating space. |
 | `layouts/` | Original bar and dining-room operating-layout diagrams. |
 | `menus/entradas-menu-p1.png` | Original printed menu page; brand-bearing pages withheld. |
-| `monday-roadmap-gantt-redacted.png` | Sanitized export of the opening roadmap; personal and ownership fields removed. |
 
 ## Role, contributors, and authorship
 
@@ -166,7 +165,7 @@ The public record does not establish the scope of AI assistance, if any, in the 
 ## Confidentiality and provenance
 
 - Employee, applicant, payroll, time-clock, and vendor-account data are excluded.
-- Ownership names and sensitive roadmap fields are redacted.
+- The source roadmap remains private because a retained export still included a third-party account-setup task that was not relevant to the public case.
 - Brand-bearing source pages not suitable for publication are withheld or selectively transcribed.
 - Outcome figures are aggregate claims; row-level operating and financial records remain private.
 - Public artifacts should be reviewed for metadata and visible identifiers before release.
